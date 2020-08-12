@@ -1,0 +1,28 @@
+
+// {
+//   "compileOnSave": false,
+//   "compilerOptions": {
+//     "resolveJsonModule": true,
+//     "esModuleInterop": true,
+//     "experimentalDecorators": true    
+//   },
+
+//   "files": [],
+//   "references": [
+//     {
+//       "path": "./tsconfig.app.json"
+//     },
+//     {
+//       "path": "./tsconfig.spec.json"
+//     }
+// ]
+
+// }
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  }
+}
